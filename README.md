@@ -4,7 +4,7 @@ This was built for the Nvidea Jetson Xavier NX sirectly from the source with no 
 
 To install 
 ```python
-wget https://github.com/CAProjects/rpi-imager-jetson-xavier-nx/releases/download/1.5/rpi-imager_1.5_arm64.deb
+wget https://github.com/CAProjects/rpi-imager-jetson-xavier-nx/releases/download/1.5/rpi-imager_1.5_xavier-nx_arm64.deb
 sudo apt install ./rpi-imager*.deb
 rm ./rpi-imager*.deb
 ```
