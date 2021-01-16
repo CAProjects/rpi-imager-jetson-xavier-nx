@@ -9,6 +9,6 @@ sudo apt install ./rpi-imager*.deb
 rm ./rpi-imager*.deb
 ```
 
-Disable Telemetry (Optional) 
-`rpi-imager --disable-telemetry`
+Disable Telemetry (Optional)  
+`rpi-imager --disable-telemetry`  
 more information on telemetry can be found [here](https://github.com/raspberrypi/rpi-imager#telemetry)
