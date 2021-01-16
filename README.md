@@ -1,6 +1,6 @@
 # Raspberry Pi imager Built for Nvidea Jetson Xavier NX (ARM64)
 
-This was built for the Nvidea Jetson Xavier NX sirectly from the source with no changes at all, the reason for the build is because i use this as my SD card/Drive imager all the time and wanted it on my Xavier NX so i built it from source and tested it to ensure it works as intended
+This was built for the Nvidea Jetson Xavier NX directly from the [source](https://github.com/raspberrypi/rpi-imager) with no changes at all, the reason for the build is because I use this as my SD card/Drive imager all the time and wanted it on my Xavier NX so I built it from source and tested it to ensure it works as intended
 
 To install 
 ```bash
